@@ -1,0 +1,4 @@
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\bin\Release\ComplexNumbers.dll
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\bin\Release\ComplexNumbers.pdb
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\obj\Release\ComplexNumbers.dll
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\obj\Release\ComplexNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.dll
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojAssemblyReference.cache
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.dll
+C:\Users\Luizo\OneDrive\Softwares\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
