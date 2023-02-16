@@ -84,7 +84,15 @@ namespace ComplexNumbers
                 {
                     imS += chars[i];
                 }
-                double imSign = chars[IPosition - 1] == '-' ? -1 : 1;
+                double imSign = 1;
+                if (IPosition == 0)
+                {
+                    reS = "0";
+                }
+                else
+                {
+                    imSign = chars[IPosition - 1] == '-' ? -1 : 1;
+                }
                 re = Convert.ToDouble(reS);
                 im = Convert.ToDouble(imS) * imSign;
             }
